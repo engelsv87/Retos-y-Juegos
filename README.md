@@ -1,2 +1,2 @@
 # Retos-y-Juegos
-Retos realizados en Python
+Retos y juegos realizados en Python
